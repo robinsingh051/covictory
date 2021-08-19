@@ -2,7 +2,7 @@
  Covictory - A Twitter search tool for Covid19
 </h1>
 
-<h4 align="center">See the Project Live at : https://covictory.netlify.app/</h4>
+<h4 align="center">See the Project Live at : https://robinsingh051.github.io/covictory/</h4>
 <div align="center">
   <sub>Built with ❤︎ </sub>
 </div>
@@ -26,6 +26,6 @@ You can use Covictory to search for Covid19 resources like beds,oxygen,medicines
 
 ```
 # clone it
-git clone https://github.com/ekagrashukla/Covictory-twitter_search_for_Covid19.git
+git clone https://github.com/robinsingh051/covictory.git
 cd Covictory-twitter_search_for_Covid19
 ```
