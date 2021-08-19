@@ -10,9 +10,6 @@
 </br>
 You can use Covictory to search for Covid19 resources like beds,oxygen,medicines etc.
 
-## Demo
-
-<img src="demo.gif" alt="Demo" height ="70%" width = "70%"/>
 
 ## Technologies
 
